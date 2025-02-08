@@ -1,3 +1,10 @@
 {
-  "rainfall" : 10
+  "cities": [
+    { "city": "Nairobi", "value": 10 },
+    { "city": "Accra", "value": 0 },
+    { "city": "Lagos", "value": 5 },
+    { "city": "Addis Ababa", "value": 12 },
+    { "city": "Lusaka", "value": 10 }
+  ]
 }
+
